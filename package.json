@@ -24,9 +24,3 @@
     "typescript": "^5.7.2"
   }
 }
-
-"scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
-}
